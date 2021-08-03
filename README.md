@@ -13,6 +13,7 @@ CPU：i7-10700
 
 声卡：ALC255
 
+
 BIOS设置：
 
 Secure Boot -> Disabled
@@ -22,6 +23,7 @@ Fast Boot -> Disabled
 Intel SGX -> Disabled
 
 SATA Mode: AHCI
+
 
 OpenCore : 0.6.4
 
